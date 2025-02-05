@@ -3,6 +3,6 @@
 
 void hello();
 
-int linear_search(int array[], int size, int value);
+int linear_search(const int array[], int size, int value);
 
 #endif //SEARCH_ALGOS_LIBRARY_H
